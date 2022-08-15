@@ -1,0 +1,132 @@
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\ProyectoTituloBackend.exe
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\obj\Debug\netcoreapp3.1\ProyectoTituloBackend.csprojAssemblyReference.cache
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\obj\Debug\netcoreapp3.1\ProyectoTituloBackend.AssemblyInfoInputs.cache
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\obj\Debug\netcoreapp3.1\ProyectoTituloBackend.AssemblyInfo.cs
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\obj\Debug\netcoreapp3.1\ProyectoTituloBackend.RazorTargetAssemblyInfo.cache
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\obj\Debug\netcoreapp3.1\staticwebassets\ProyectoTituloBackend.StaticWebAssets.Manifest.cache
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\obj\Debug\netcoreapp3.1\staticwebassets\ProyectoTituloBackend.StaticWebAssets.xml
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\obj\Debug\netcoreapp3.1\ProyectoTituloBackend.csproj.CopyComplete
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\ProyectoTituloBackend.deps.json
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\ProyectoTituloBackend.runtimeconfig.json
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\ProyectoTituloBackend.runtimeconfig.dev.json
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\ProyectoTituloBackend.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\ProyectoTituloBackend.pdb
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\obj\Debug\netcoreapp3.1\ProyectoTituloBackend.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\obj\Debug\netcoreapp3.1\ProyectoTituloBackend.pdb
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\obj\Debug\netcoreapp3.1\ProyectoTituloBackend.genruntimeconfig.cache
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\obj\Debug\netcoreapp3.1\ProyectoTituloBackend.csproj.CoreCompileInputs.cache
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\obj\Debug\netcoreapp3.1\ProyectoTituloBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PaoloPerini.AzureAD\source\repos\ProyectoTituloBackend\ProyectoTituloBackend\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProyectoTituloBackend.styles.css
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\ProyectoTituloBackend.StaticWebAssets.xml
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\ProyectoTituloBackend.exe
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\ProyectoTituloBackend.deps.json
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\ProyectoTituloBackend.runtimeconfig.json
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\ProyectoTituloBackend.runtimeconfig.dev.json
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\ProyectoTituloBackend.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\ProyectoTituloBackend.pdb
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\obj\Debug\netcoreapp3.1\ProyectoTituloBackend.csproj.AssemblyReference.cache
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\obj\Debug\netcoreapp3.1\ProyectoTituloBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\obj\Debug\netcoreapp3.1\ProyectoTituloBackend.AssemblyInfoInputs.cache
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\obj\Debug\netcoreapp3.1\ProyectoTituloBackend.AssemblyInfo.cs
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\obj\Debug\netcoreapp3.1\ProyectoTituloBackend.csproj.CoreCompileInputs.cache
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\obj\Debug\netcoreapp3.1\ProyectoTituloBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\obj\Debug\netcoreapp3.1\staticwebassets\ProyectoTituloBackend.StaticWebAssets.Manifest.cache
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\obj\Debug\netcoreapp3.1\ProyectoTituloBackend.RazorTargetAssemblyInfo.cache
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\obj\Debug\netcoreapp3.1\ProyectoTituloBackend.csproj.CopyComplete
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\obj\Debug\netcoreapp3.1\ProyectoTituloBackend.dll
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\obj\Debug\netcoreapp3.1\ProyectoTituloBackend.pdb
+C:\Proyectos backend\ProyectoTituloBackend\ProyectoTituloBackend\obj\Debug\netcoreapp3.1\ProyectoTituloBackend.genruntimeconfig.cache
